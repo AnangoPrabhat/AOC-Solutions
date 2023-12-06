@@ -14,3 +14,4 @@ A collection of my solutions to AOC puzzles.
 - Day 3: 424/314
 - Day 4: 267/992
 - Day 5: 4/3725
+- Day 6: 8/5
